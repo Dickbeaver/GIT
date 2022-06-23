@@ -15,5 +15,10 @@ namespace GIT
         static void Main()
         {
         }
+
+        public static int Cube(int a)
+        {
+            return a * a * a;
+        }
     }
 }
