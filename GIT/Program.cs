@@ -8,6 +8,10 @@ namespace GIT
 {
     internal class Program
     {
+
+        public static int number;
+        public static int result;
+
         static void Main()
         {
         }
